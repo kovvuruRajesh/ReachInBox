@@ -1,46 +1,43 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Deployment:
+The project is deployed on vercel Link: [Website Link](https://reach-in-box-gamma.vercel.app/)
 
-## Available Scripts
+# Video Link:
+[Video Link](https://www.loom.com/share/09151210be81450182f0526ccf37e643?sid=9aa708d7-ead1-42a0-abf7-2996abd1a100)
 
-In the project directory, you can run:
+# Login Page:
+![image](https://github.com/user-attachments/assets/5a18a705-4c31-44e2-9663-f329a4b73c57)
 
-### `npm start`
+# Home Page: 
+![image](https://github.com/user-attachments/assets/a9f2329f-b29e-48cf-a29d-92df87540db3)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+# Mails Page:
+![image](https://github.com/user-attachments/assets/536d743b-fd77-4e8b-ba4e-bc96852f1a69)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+# Reply Box: 
+![image](https://github.com/user-attachments/assets/fa90a4fc-1f9f-4062-b388-68b3c5a44ca3)
 
-### `npm test`
+# Light Mode: 
+![image](https://github.com/user-attachments/assets/89fb2aba-7f9a-4277-9100-2c4634ad41b8)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Email Deletion Dialog Box:
+![image](https://github.com/user-attachments/assets/bca10ed3-5947-4b6b-a181-eb46b01b20f0)
 
-### `npm run build`
+# Installion
+* Download and install NodeJs.
+* Download the libraries.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# How execute and run
+* Clone this repo using **git clone <repo-link>**
+* Install the dependencies: **npm install**
+* To run: **npm start**
+* search the URL: **http://localhost:3000/**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+# Deployment in Vercel
+* install vercel CLI: **npm i -g vercel**
+* Create an account in vercel and authorize with github
+* push the code in github
+* type vercel in cmd on the respective path
+* answers the options based on your requirement
+* click on the deployment link
